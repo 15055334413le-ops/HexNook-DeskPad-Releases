@@ -4,7 +4,9 @@ DeskPad 是 Windows 上的启动台：按 **Alt + Space** 打开，集中显示�
 
 ## 下载
 
-在右侧 [Releases](../../releases) 中下载最新版本的 `DeskPad-<版本>-win-x64.zip`。
+最新版本：**0.1.0** — [下载 DeskPad-0.1.0-win-x64.zip](https://github.com/15055334413le-ops/HexNook-DeskPad-Releases/raw/main/releases/0.1.0/DeskPad-0.1.0-win-x64.zip)（[更新说明](releases/0.1.0/NOTES.md)）
+
+历史版本见 [releases](releases) 目录；`latest.json` 记录最新版本信息，供程序内在线更新读取。
 
 ## 安装与使用
 
