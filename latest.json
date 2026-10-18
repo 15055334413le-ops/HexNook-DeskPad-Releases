@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://raw.githubusercontent.com/15055334413le-ops/HexNook-DeskPad-Releases/main/releases/0.2.0/DeskPad-0.2.0-win-x64.zip",
-  "sha256": "a0e2658334a6a64bbefacb7532ba0ec43e784371d2d0cb87bdf4d956affde657",
-  "size": 701325,
-  "notes": "内置在线更新：设置/托盘一键更新，自动检查新版本。"
+  "version": "0.3.0",
+  "url": "https://raw.githubusercontent.com/15055334413le-ops/HexNook-DeskPad-Releases/main/releases/0.3.0/DeskPad-0.3.0-win-x64.zip",
+  "sha256": "9f0297a96712d2358770ca8ff77554e69bd2599bc487a0e1d3c6d62ce46fc4e6",
+  "size": 753147,
+  "notes": "设置重做、毛玻璃主题、全屏、统一圆角图标、右键菜单、系统工具过滤与拖入添加。"
 }
